@@ -1,0 +1,28 @@
+_repo: Medaglioni_74414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nencioni, Enrico
+    birthdate: 1837
+    deathdate: 1896
+    gutenberg_agent_id: '49121'
+    url: http://www.gutenberg.org/2009/agents/49121
+description: ''
+gutenberg_issued: '2024-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74414'
+language: it
+pgterms:marc905: 20171031081952nencioni
+pgterms:marc906: '1883'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aRoma :$bA. Sommaruga e C., $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Medaglioni
+url: http://www.gutenberg.org/ebooks/74414
